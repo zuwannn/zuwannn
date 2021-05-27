@@ -16,8 +16,8 @@ Talking about Personal Stuffs:
 - Git, Github, BitBucket, Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Heroku, Jira, Trello, Pusher and so on
 
 <p align="center">
-  <img src="https://github.com/zuwannn/zuwannn/blob/master/meow-coding.gif" alt="I love writing code" height="195px" />
+  <img src="https://github.com/zuwannn/zuwannn/blob/master/meow-coding.gif" alt="" height="195px" />
   
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zuwannn_count=4&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zuwannn&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
   
 </p>
