@@ -18,7 +18,7 @@ Talking about Personal Stuffs:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zuwannn/zuwannn/main/meow-coding.gif" alt="meow-coding" height="195px" />
-  
+  <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zuwannn&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
   
 </p>
