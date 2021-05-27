@@ -1,5 +1,6 @@
 # zuwannn
 
+<h1 align="center">Hi, I'm Suwannee Thongtha</h1>
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=zuwannn&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
@@ -16,7 +17,7 @@ Talking about Personal Stuffs:
 - Git, Github, BitBucket, Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Heroku, Jira, Trello, Pusher and so on
 
 <p align="center">
-  <img src="https://github.com/zuwannn/zuwannn/blob/master/meow-coding.gif" alt="" height="195px" />
+  <img src="https://raw.githubusercontent.com/zuwannn/zuwannn/main/meow-coding.gif" alt="meow-coding" height="195px" />
   
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zuwannn&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
   
