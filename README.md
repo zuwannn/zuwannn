@@ -14,7 +14,6 @@ Talking about Personal Stuffs:
 - <b>Front-end</b> : JavaScript | CSS | HTML  | Bootstrap
 - <b>Back-end</b> : coming soon...
 - <b>Database</b> : Mysql 
-- Git, Github, BitBucket, Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Heroku, Jira, Trello, Pusher and so on
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zuwannn/zuwannn/main/meow-coding.gif" alt="meow-coding" height="195px" />
