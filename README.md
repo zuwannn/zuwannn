@@ -14,6 +14,7 @@ Talking about Personal Stuffs:
 - <b>Front-end</b> : JavaScript | CSS | HTML  | Bootstrap
 - <b>Back-end</b> : coming soon...
 - <b>Database</b> : Mysql 
+- <b>Interests</b> : data science | machine learning | data analysis | pattern recognition
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zuwannn/zuwannn/main/meow-coding.gif" alt="meow-coding" height="195px" />
