@@ -18,8 +18,8 @@ Talking about Personal Stuffs:
 - <b>Interests</b> : data science | machine learning | data analysis | pattern recognition | MERN Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zuwannn/zuwannn/main/meow-coding.gif" alt="meow-coding" height="195px" />
+  <img src="https://raw.githubusercontent.com/zuwannn/zuwannn/main/meow-coding.gif" alt="meow-coding" height="200px" />
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zuwannn&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zuwannn&layout=compact&theme=tokyonight&include_all_commits=true" height="200px">
   
 </p>
