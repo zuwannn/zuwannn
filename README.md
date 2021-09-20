@@ -1,6 +1,6 @@
 # zuwannn
 
-<h1 align="center">Hi, I'm Suwannee</h1>
+<h1 align="center">Hi, I'm Suwannee Thongtha</h1>
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=zuwannn&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
