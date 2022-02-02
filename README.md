@@ -13,7 +13,7 @@ Talking about Personal Stuffs:
 - I'm trying to be a full-stack developer.
 - <b>Front-end</b> : JavaScript | CSS | HTML  | Bootstrap
 - <b>Back-end</b> : PHP | Node.js
-- <b>Database</b> : Mysql | MongoDB
+- <b>Database</b> : Mysql | MongoDB | Firebase
 - <b>Programming Language</b> : Python | C/C++ | Java
 - <b>Interests</b> : data science | machine learning | data analysis | pattern recognition | MERN Stack
 
